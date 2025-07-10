@@ -144,6 +144,9 @@ Implementacion completa de una red neuronal multicapa en C++ para clasificacion,
 5. D. E. Rumelhart, G. E. Hinton, and R. J. Williams, "Learning representations by back-propagating errors," *Cognitive Modeling*, vol. 1, pp. 1–10, 1988.
 
 ---
+## 7. Video del proyecto
+Link del video almacenado en indrive:
+https://drive.google.com/file/d/10Z8ZWf4krCCsGhhK1j_vDYpwRHJxta2C/view?usp=sharing
 
 ## Licencia
 
