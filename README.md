@@ -28,7 +28,7 @@ Implementacion completa de una red neuronal multicapa en C++ para clasificacion,
 
 **Grupo:** `projecto-final-skibidipapu`
 
-**Integrantes y roles:**
+**Integrantes**
 
 | Nombre                        | Codigo     |
 |-------------------------------|------------|
@@ -126,18 +126,7 @@ Implementacion completa de una red neuronal multicapa en C++ para clasificacion,
 
 ---
 
-## 5. Trabajo en equipo
-
-| Nombre                | 
-|-----------------------|
-| Joaquin Ocaña         |
-| Lucia Castro          |
-| Benjamin Suarez       |
-| Valeria Rios Gomez    |
-
----
-
-## 6. Conclusiones y aprendizajes
+## 5. Conclusiones y aprendizajes
 
 - Logramos implementar una red neuronal funcional y eficiente desde cero.
 - El sistema de tensores propio nos permitió entender a fondo la base matemática de la IA.
@@ -146,7 +135,7 @@ Implementacion completa de una red neuronal multicapa en C++ para clasificacion,
 
 ---
 
-## 7. Bibliografia
+## 6. Bibliografia
 
 1. I. Goodfellow, Y. Bengio, and A. Courville, *Deep Learning*. MIT Press, 2016.
 2. M. Nielsen, *Neural Networks and Deep Learning*. Determination Press, 2015.
